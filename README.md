@@ -9,7 +9,6 @@ Company: CodeTech IT Solutions
 Internship ID: CT8UD1940  
 Domain: Web Development  
 Duration: July 2023 - September 2023  
-Mentor: [Mentor's Name]
 
  Objectives
 
